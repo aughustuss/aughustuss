@@ -17,9 +17,8 @@
 <hr>
 Atualmente focado no aprendizado de novas tecnologias e soluções Web.
 <hr>
-Estudante do 5º período de Ciência da Computação e aprendendo mais sobre programação. <br>
-Chegado nas tecnologias que envolvem o desenvolvimento de aplicações Web e em busca de começar na área e crescer com a prática. <br>
-Já tive contato com tecnologias Web em projetos da faculdade, envolvendo design, planejamento, implementação e manutenção do Front-end das mesmas. <br>
+Estudante do 5º período de Ciência da Computação e aprendendo mais sobre programação. Chegado nas tecnologias que envolvem o desenvolvimento de aplicações Web e em busca do pontapé inicial na área de TI.
+Já tive contato com tecnologias Web em projetos acadêmicos e pessoais. Nestes projetos, participei ativamente do design, planejamento, implementação e manutenção do Front-end das mesmas. 
 Estou sempre à disposição para novas discussões e aprendizados que me tragam resultados. <br>
 <hr>
 Linguagens e tecnologias mais utilizadas: 
