@@ -14,7 +14,6 @@
 </div>
 
 <hr>
-:writing_hand:<br>
 Estudante do 5º período de Ciência da Computação e aprendendo mais sobre programação. <br><br>
 Chegado nas tecnologias que envolvem o desenvolvimento de aplicações Web e em busca de começar na área e crescer com a prática. <br><br>
 Já tive contato com tecnologias Web em projetos da faculdade, envolvendo design, planejamento, implementação e manutenção do Front-end das mesmas. <br><br>
