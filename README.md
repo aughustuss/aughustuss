@@ -23,6 +23,7 @@ Estou sempre à disposição para novas discussões e aprendizados que me tragam
 <hr>
 Linguagens e tecnologias mais utilizadas: 
 <br>
+<br>
 <div>
  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3" width="40px" height="40px">
  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" width="40px" height="40px">
