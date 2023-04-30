@@ -26,9 +26,11 @@ Linguagens e tecnologias mais utilizadas:
 <br>
 <div>
  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3" width="40px" height="40px">
+ <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="40px" height="40px">
  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" width="40px" height="40px">
  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="ReactJS" width="40px" height="40px">
  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt ="JavaScript" width="40px" height="40px">
+ <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40px" height="40px">
  <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" alt="jQuery" width="40px" height="40px">
  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="40px" height="40px">
 </div> <br>
