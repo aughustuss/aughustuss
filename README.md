@@ -14,7 +14,7 @@
 </div>
 </div>
 
-#📃 Sobre mim:
+# :page_with_curl: Sobre mim:
 Atualmente focado no aprendizado de novas tecnologias e soluções Web.<br><br>Estudante do 5º período de Ciência da Computação e aprendendo mais sobre programação. Chegado nas tecnologias que envolvem o desenvolvimento de aplicações Web e em busca do pontapé inicial na área de TI.<br>Já tive contato com tecnologias Web em projetos acadêmicos e pessoais. Nestes projetos, participei ativamente do design, planejamento, implementação e manutenção do Front-end das mesmas. <br>Estou sempre à disposição para novas discussões e aprendizados que me tragam resultados.
 
 # 💻 Tecnologias:
