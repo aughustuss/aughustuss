@@ -14,26 +14,21 @@
 </div>
 </div>
 
-<hr>
-Atualmente focado no aprendizado de novas tecnologias e soluções Web.
-<hr>
-Estudante do 5º período de Ciência da Computação e aprendendo mais sobre programação. Chegado nas tecnologias que envolvem o desenvolvimento de aplicações Web e em busca do pontapé inicial na área de TI.
-Já tive contato com tecnologias Web em projetos acadêmicos e pessoais. Nestes projetos, participei ativamente do design, planejamento, implementação e manutenção do Front-end das mesmas. 
-Estou sempre à disposição para novas discussões e aprendizados que me tragam resultados. <br>
-<hr>
-Linguagens e tecnologias mais utilizadas: 
-<br>
-<br>
-<div>
- <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt ="JavaScript" width="40px" height="40px">
- <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40px" height="40px">
- <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="ReactJS" width="40px" height="40px">
- <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-plain.svg" alt="TailwindCSS" width="40px" height="40px">
- <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3" width="40px" height="40px">
- <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML5" width="40px" height="40px">
- <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" alt="jQuery" width="40px" height="40px">
- <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="Git" width="40px" height="40px">
-</div> <br>
+# 💫 About Me:
+Atualmente focado no aprendizado de novas tecnologias e soluções Web.<br><br>Estudante do 5º período de Ciência da Computação e aprendendo mais sobre programação. Chegado nas tecnologias que envolvem o desenvolvimento de aplicações Web e em busca do pontapé inicial na área de TI.<br>Já tive contato com tecnologias Web em projetos acadêmicos e pessoais. Nestes projetos, participei ativamente do design, planejamento, implementação e manutenção do Front-end das mesmas. <br>Estou sempre à disposição para novas discussões e aprendizados que me tragam resultados.
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=aughustuss&show_icons=true&theme=transparent) <br><br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aughustuss&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/_augustodpm/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/augusto-de-paula-menezes-79579220b/) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/augusz_) 
+
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=aughustuss&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=aughustuss&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=aughustuss&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=aughustuss&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
