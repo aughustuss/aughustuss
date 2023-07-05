@@ -11,9 +11,6 @@
  <a href="https://twitter.com/augusz_">
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
  </a>
-   <a href="https://https://augustodpm.dev.br/">
-  <img src="https://img.shields.io/badge/Portfólio-black?style=for-the-badge&logo=none&logoColor=white" alt="Instagram Badge"/>
- </a>
 </div>
 </div>
 
